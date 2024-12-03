@@ -1,6 +1,6 @@
-# IdeaCodeAudit  
+# IDEACodeAudit  
 ## 介绍
-- IdeaCodeAudit为IDEA静态代码扫描插件，侧重于在编码过程中发现项目潜在的安全风险（一键搜索所有的sink点，替代传统control+F大法），部分漏洞并提供一键修复能力，提升安全攻防人员代码审计效率、开发人员代码安全质量
+- IDEACodeAudit为IDEA静态代码扫描插件，侧重于在编码过程中发现项目潜在的安全风险（一键搜索所有的sink点，替代传统control+F大法），部分漏洞并提供一键修复能力，提升安全攻防人员代码审计效率、开发人员代码安全质量
 - 插件利用IDEA原生Inspection机制检查项目，自动检查当前活跃窗口的活跃文件，检查速度快，占用资源少，官方介绍：https://www.jetbrains.com/help/idea/inspections-settings.html#5
 - 该项目会基于老大哥深信服深蓝实验室天威战队开源的项目进行魔改
 - https://github.com/KimJun1010/inspector?tab=readme-ov-file
